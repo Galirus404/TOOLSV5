@@ -39,6 +39,6 @@ rm -rf TOOLSV5
 
 git clone --depth 1 https://github.com/Galirus404/TOOLSV4
 
-cd TOOLSV4
+cd TOOLSV5
 
 bash install.sh
