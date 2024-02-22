@@ -1,3 +1,118 @@
-z="
-";QGz='elew';gBz='═╗║║';dGz='a/co';bCz='   0';fBz='╔╗║╚';BCz='t In';Nz='1;34';bEz='s://';IFz=' REA';TEz=' ori';ZDz='wget';ABz='"htt';uEz='embu';hGz='Jang';tz='"';SBz='"   ';iFz='p un';pFz='udfl';iDz='clou';sEz='\r"';oBz='║║║═';WGz='= "3';vGz='lah"';FEz='olor';TFz=' upd';fGz='rmux';HBz='liru';NCz='Untu';TGz='i\r"';Kz='k="\';YBz='══╗╔';WFz='tall';vFz='ox -';az='g" ]';PGz='"n" ';bFz='n2 p';MEz='txt';xz='ux-o';eEz='om/G';CEz='boar';vDz='ze b';JBz='icia';lEz='$k';tBz='══╝╚';Sz='p="\';wz='term';mFz='sh w';PBz='╗   ';kz='BE$b';sz='l :)';kDz='red ';UBz='╔╗║ ';mCz='s-40';FDz='apt ';ZBz='══╗║';UEz='gin ';BEz=' key';mBz='╗║╔╗';EFz='d 77';uCz='if [';WDz='rmim';fz=' $q ';TDz='ruby';EEz='ch c';VEz='main';pCz='read';AEz='dome';YCz='ium ';pGz='fici';OGz='m Cr';cGz='/dat';dEz='ub.c';tGz='inpu';ACz='  Ei';Tz='1;37';ZFz='h  p';RDz='on2 ';XEz='e --';eBz='╚╝╝║';uDz='hani';RFz='sudo';DDz='Pack';nEz=' "	i';Gz='1;31';ZCz='TOOL';ADz='then';ICz='$k "';Uz='whil';QFz=']';IGz='e ke';nz=' dul';hDz='ich ';xBz='╗$b"';NDz='bash';LFz='elif';iBz='$p" ';bBz='══╗"';yFz=' req';lBz='║║╚═';LGz='colo';mGz='IBE$';MGz='rama';lCz='m Ga';hBz='║═╣"';hz='"[$m';aBz='║╔╗╔';yz='pen ';xEz='V5"';FBz='.com';oCz='┃$b"';qz='l Sa';sFz='let ';BBz='ps:/';rGz='exit';XDz='age ';BGz='s me';nCz='4$b ';Dz='cho"';eFz='curl';KGz='rd r';iCz='╭───';Ez='m="\';CGz='chan';IBz='sOff';Lz='1;33';Vz='e [ ';KBz='l"';VCz='TER"';LCz='Inst';QCz='ux"';rCz=''\'' ╰─';mEz=' -ne';hFz='t zi';GDz='upda';nBz='║╔═╝';PFz='"2" ';wBz='════';XGz='" ];';dBz='╔╗║║';qFz='ared';lGz='BSCR';DFz='chmo';Hz='m"';qBz='   ╚';fEz='alir';eGz='m.te';qGz='al"';wCz='pa" ';yEz='cd $';rFz=' fig';vBz='$b"╔';OBz=' ╔══';oz='u Ch';kBz=' ║╔╗';HEz='tqdm';PCz='Term';aDz=' zip';cz='clea';MCz='all ';Qz='[1;3';rz='ya$b';uFz='ay s';FFz='7 RE';YEz='dept';jDz='dfla';jGz='upa$';TCz='x/NE';YGz=' the';ez='echo';cDz='ip f';XCz='Prem';xDz='pycr';jBz=' ║║ ';aCz='SV4"';sDz='ests';Mz='b="\';qEz='i su';lFz='pens';wEz='OOLS';gFz=' wge';VDz='l te';kCz='──┫$';gz='$bl ';tDz=' mec';lz='l ]$';SEz='pull';yDz='ypto';jFz='zip ';cEz='gith';xFz=' pip';TBz='   ║';SGz='alas';jz='SCRI';WBz='╔╗║"';MFz=' [ "';xGz='done';MBz='$m" ';dz='r';kFz='et o';ECz='ckag';oGz='s Of';XFz=' git';BFz='/TOO';gCz='p 1';PDz='hon ';NGz=' tqd';ZEz='h 1 ';Jz='1;32';WEz='clon';Xz='se" ';JGz='yboa';NFz='$apa';AGz='uest';NEz='add ';bGz='data';eDz='t op';pBz='╣"';Az='q="-';jEz='cd s';GEz='ama ';dDz='igle';rEz='kses';JFz='DME.';Pz='\033';Zz='ulan';DGz='ize ';FGz=' pyc';HDz='te &';OFz='" = ';EDz='age"';KCz='.$b ';uBz='══╝"';UGz=' [ $';xCz='= "1';LBz='p 2';aFz='ytho';QBz=' ╔╗ ';fFz=' -y';hCz='$b "';qDz='pip ';tCz='apa';WCz='   3';pDz='x -y';Cz='e="e';GFz='ADME';cCz='Kelu';rBz='╝  ╚';aGz='cd /';Oz='bl="';cFz='n3 r';CDz='inst';nFz='hich';sCz='▶ '\'' ';eCz='$b"╚';rDz='requ';VFz=' ins';cBz='╔═╝║';wFz='y';sGz='else';GCz='u do';nGz='b Ga';BDz='meng';kGz='m SU';YFz=' bas';UFz='ate';aEz='http';fCz='╝$h"';fDz='enss';nDz='owsa';lDz='figl';ZGz='n';GBz='/@Ga';uz='slee';IEz='-r r';HCz='ong"';NBz='    ';VGz='apa ';REz='stas';wDz='s4';dCz='ar"';vCz=' "$a';CBz='/www';HFz='.sh';JEz='equi';gDz='h wh';pz='anne';mDz='et c';iz=' SUB';HGz='odom';OEz='READ';RBz='╗"';KFz='sh';qCz=' -p ';hEz='4/so';JCz='   1';Bz='e"';SFz=' apt';LEz='nts.';LDz='e -y';RGz='ati ';Iz='h="\';uGz='t sa';IDz='& ap';SCz='Linu';DEz='d ri';OCz='k$m ';QEz='h';iEz='und';FCz='enya';vEz='ka T';CFz='LSV5';AFz='HOME';MDz='git ';Rz='6m"';Yz='= "$';JDz='t up';VBz='║   ';Fz='033[';tEz=' "	M';bz='do';UCz='THUN';bDz=' unz';DBz='.you';UDz=' cur';kEz='ound';vz='p 3';wGz='fi';XBz='╚╝║╔';mz='b>$k';oDz='y so';ODz=' pyt';RCz='   2';GGz='rypt';EBz='tube';Wz='"$el';oEz='nsta';EGz='bs4';KDz='grad';gGz='"0" ';iGz='an L';yCz='" ]';pEz='llas';yBz='$bl"';sBz='╝╚╝╚';dFz='uby ';CCz='stal';KEz='reme';YDz='-y';jCz='────';tFz='cows';QDz='pyth';DCz='l Pa';SDz='on3 ';PEz='ME.s';oFz=' clo';gEz='us40';
-eval "$Az$Bz$z$Cz$Dz$z$Ez$Fz$Gz$Hz$z$Iz$Fz$Jz$Hz$z$Kz$Fz$Lz$Hz$z$Mz$Fz$Nz$Hz$z$Oz$Pz$Qz$Rz$z$Sz$Fz$Tz$Hz$z$Uz$Vz$Wz$Xz$Yz$Zz$az$z$bz$z$cz$dz$z$ez$fz$gz$hz$iz$jz$kz$lz$mz$nz$oz$pz$qz$rz$sz$tz$z$uz$vz$z$wz$xz$yz$ABz$BBz$CBz$DBz$EBz$FBz$GBz$HBz$IBz$JBz$KBz$z$uz$LBz$z$cz$dz$z$cz$dz$z$ez$fz$MBz$NBz$OBz$PBz$NBz$QBz$NBz$OBz$RBz$z$ez$fz$SBz$TBz$UBz$NBz$TBz$VBz$TBz$WBz$z$ez$fz$SBz$TBz$XBz$YBz$ZBz$aBz$ZBz$XBz$bBz$z$ez$fz$SBz$TBz$cBz$dBz$cBz$eBz$fBz$gBz$hBz$z$ez$fz$iBz$NBz$jBz$kBz$lBz$mBz$mBz$nBz$oBz$pBz$z$ez$fz$SBz$qBz$rBz$sBz$tBz$sBz$sBz$tBz$uBz$z$ez$z$ez$fz$vBz$wBz$wBz$wBz$wBz$wBz$wBz$wBz$wBz$wBz$wBz$wBz$xBz$z$ez$z$ez$fz$yBz$NBz$ACz$BCz$CCz$DCz$ECz$FCz$nz$GCz$HCz$z$ez$z$ez$fz$ICz$JCz$KCz$LCz$MCz$NCz$OCz$PCz$QCz$z$ez$fz$ICz$RCz$KCz$LCz$MCz$NCz$OCz$SCz$TCz$UCz$VCz$z$ez$fz$ICz$WCz$KCz$XCz$YCz$ZCz$aCz$z$ez$fz$ICz$bCz$KCz$cCz$dCz$z$ez$z$ez$fz$eCz$wBz$wBz$wBz$wBz$wBz$wBz$wBz$wBz$wBz$wBz$wBz$fCz$z$uz$gCz$z$ez$fz$hCz$iCz$jCz$kCz$lCz$HBz$mCz$nCz$oCz$z$pCz$qCz$rCz$jCz$jCz$sCz$tCz$z$uCz$vCz$wCz$xCz$yCz$z$ADz$z$ez$fz$ICz$BDz$CDz$MCz$DDz$EDz$z$FDz$GDz$HDz$IDz$JDz$KDz$LDz$z$FDz$CDz$MCz$MDz$NDz$ODz$PDz$QDz$RDz$QDz$SDz$TDz$UDz$VDz$WDz$XDz$YDz$z$FDz$CDz$MCz$ZDz$aDz$bDz$cDz$dDz$eDz$fDz$gDz$hDz$iDz$jDz$kDz$lDz$mDz$nDz$oDz$pDz$z$qDz$CDz$MCz$rDz$sDz$tDz$uDz$vDz$wDz$z$qDz$CDz$MCz$xDz$yDz$AEz$BEz$CEz$DEz$EEz$FEz$GEz$HEz$z$qDz$CDz$MCz$IEz$JEz$KEz$LEz$MEz$z$cz$dz$z$MDz$NEz$OEz$PEz$QEz$z$MDz$REz$QEz$z$MDz$SEz$TEz$UEz$VEz$z$MDz$NEz$OEz$PEz$QEz$z$MDz$REz$QEz$z$MDz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$dEz$eEz$fEz$gEz$hEz$iEz$z$jEz$kEz$z$ez$fz$lEz$z$ez$mEz$nEz$oEz$pEz$qEz$rEz$sEz$z$uz$LBz$z$cz$dz$z$ez$mEz$tEz$uEz$vEz$wEz$xEz$z$uz$LBz$z$yEz$AFz$BFz$CFz$z$DFz$EFz$FFz$GFz$HFz$z$cz$dz$z$NDz$IFz$JFz$KFz$z$LFz$MFz$NFz$OFz$PFz$QFz$z$ADz$z$ez$fz$ICz$BDz$CDz$MCz$DDz$EDz$z$RFz$SFz$TFz$UFz$z$RFz$SFz$VFz$WFz$XFz$YFz$ZFz$aFz$bFz$aFz$cFz$dFz$eFz$fFz$z$RFz$SFz$VFz$WFz$gFz$hFz$iFz$jFz$lDz$kFz$lFz$mFz$nFz$oFz$pFz$qFz$rFz$sFz$tFz$uFz$vFz$wFz$z$RFz$xFz$VFz$WFz$yFz$AGz$BGz$CGz$DGz$EGz$z$RFz$xFz$VFz$WFz$FGz$GGz$HGz$IGz$JGz$KGz$hDz$LGz$MGz$NGz$OGz$yDz$z$qDz$CDz$MCz$IEz$JEz$KEz$LEz$MEz$z$MDz$NEz$OEz$PEz$QEz$z$MDz$REz$QEz$z$MDz$SEz$TEz$UEz$VEz$z$MDz$NEz$OEz$PEz$QEz$z$MDz$REz$QEz$z$MDz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$dEz$eEz$fEz$gEz$hEz$iEz$z$jEz$kEz$z$ez$fz$lEz$z$ez$mEz$nEz$oEz$pEz$qEz$rEz$sEz$z$uz$LBz$z$cz$dz$z$ez$mEz$tEz$uEz$vEz$wEz$xEz$z$uz$LBz$z$DFz$EFz$FFz$GFz$HFz$z$cz$dz$z$yEz$AFz$BFz$CFz$z$NDz$IFz$JFz$KFz$z$LFz$MFz$NFz$OFz$PGz$QFz$z$ADz$z$MDz$NEz$OEz$PEz$QEz$z$MDz$REz$QEz$z$MDz$SEz$TEz$UEz$VEz$z$MDz$NEz$OEz$PEz$QEz$z$MDz$REz$QEz$z$MDz$WEz$XEz$YEz$ZEz$aEz$bEz$cEz$dEz$eEz$fEz$gEz$hEz$iEz$z$jEz$kEz$z$ez$fz$lEz$z$ez$mEz$tEz$QGz$RGz$LCz$SGz$TGz$z$uz$LBz$z$cz$dz$z$ez$mEz$tEz$uEz$vEz$wEz$xEz$z$uz$LBz$z$yEz$AFz$BFz$CFz$z$DFz$EFz$FFz$GFz$HFz$z$cz$dz$z$NDz$IFz$JFz$KFz$z$LFz$UGz$VGz$WGz$XGz$YGz$ZGz$z$aGz$bGz$cGz$dGz$eGz$fGz$z$NDz$IFz$JFz$KFz$z$LFz$MFz$NFz$OFz$gGz$QFz$z$ADz$z$ez$fz$ICz$hGz$iGz$jGz$kGz$lGz$mGz$nGz$HBz$oGz$pGz$qGz$z$uz$LBz$z$rGz$z$sGz$z$ez$fz$ICz$tGz$uGz$vGz$z$uz$LBz$z$wGz$z$xGz"
+q="-e"
+e="echo"
+m="\033[1;31m"
+h="\033[1;32m"
+k="\033[1;33m"
+b="\033[1;34m"
+bl="\033[1;36m"
+p="\033[1;37m"
+while [ "$else" = "$ulang" ]
+do
+clear
+echo $q $bl "[$m SUBSCRIBE$bl ]$b>$k dulu Channel Saya$bl :)"
+sleep 3
+termux-open "https://www.youtube.com/@GalirusOfficial"
+sleep 2
+clear
+clear
+echo $q $m"      ╔══╗        ╔╗      ╔══╗"
+echo $q "      ║╔╗║        ║║      ║╔╗║"
+echo $q "      ║╚╝║╔══╗╔══╗║║╔╗╔══╗║╚╝║╔══╗"
+echo $q "      ║╔═╝║╔╗║║╔═╝║╚╝╝║╔╗║╚═╗║║║═╣"
+echo $q $p"      ║║  ║╔╗║║╚═╗║╔╗╗║╔╗║╔═╝║║║═╣"
+echo $q "      ╚╝  ╚╝╚╝╚══╝╚╝╚╝╚╝╚╝╚══╝╚══╝"
+echo
+echo $q $b"╔════════════════════════════════════════════╗$b"
+echo
+echo $q $bl"      Eit Install Packagenya dulu doong"
+echo
+echo $q $k "   1.$b Install Untuk$m Termux"
+echo $q $k "   2.$b Install Untuk$m Linux/NETHUNTER"
+echo $q $k "   0.$b Keluar"
+echo
+echo $q $b"╚════════════════════════════════════════════╝$h"
+sleep 1
+echo $q $b "╭─────────┫$m Galirus-404$b ┃$b"
+read -p ' ╰─────────▶ ' apa
+if [ "$apa" = "1" ]
+then
+echo $q $k "menginstall Package"
+apt update && apt upgrade -y 
+apt install git bash python python2 python3 ruby curl termimage -y 
+apt install wget zip unzip figlet openssh which cloudflared figlet cowsay sox -y 
+pip install requests mechanize bs4 
+pip install pycryptodome keyboard rich colorama tqdm 
+pip install -r requirements.txt 
+clear
+git add README.sh
+git stash
+git pull origin main
+git add README.sh
+git stash
+git clone --depth 1 https://github.com/Galirus404/sound
+cd sound
+echo $q $k
+echo -ne "	installasi sukses\r"
+sleep 2
+clear
+echo -ne "	Membuka TOOLSV5"
+sleep 2
+cd $HOME/TOOLSV5
+chmod 777 README.sh
+clear
+bash README.sh
+elif [ "$apa" = "2" ]
+then
+echo $q $k "menginstall Package"
+sudo apt update 
+sudo apt install git bash  python2 python3 ruby curl -y
+sudo apt install wget zip unzip figlet openssh which cloudflared figlet cowsay sox -y
+sudo pip install requests mechanize bs4
+sudo pip install pycryptodome keyboard rich colorama tqdm Crypto
+pip install -r requirements.txt
+git add README.sh
+git stash
+git pull origin main
+git add README.sh
+git stash
+git clone --depth 1 https://github.com/Galirus404/sound
+cd sound
+echo $q $k
+echo -ne "	installasi sukses\r"
+sleep 2
+clear
+echo -ne "	Membuka TOOLSV5"
+sleep 2
+chmod 777 README.sh
+clear
+cd $HOME/TOOLSV5
+bash README.sh
+elif [ "$apa" = "n" ]
+then
+git add README.sh
+git stash
+git pull origin main
+git add README.sh
+git stash
+git clone --depth 1 https://github.com/Galirus404/sound
+cd sound
+echo $q $k
+echo -ne "	Melewati Instalasi\r"
+sleep 2
+clear
+echo -ne "	Membuka TOOLSV5"
+sleep 2
+cd $HOME/TOOLSV5
+chmod 777 README.sh
+clear
+bash README.sh
+elif [ "$apa" = "0" ]
+then
+echo $q $k "Jangan Lupa$m SUBSCRIBE$b Galirus Official"
+sleep 2
+exit
+else
+echo $q $k "input salah"
+sleep 2
+fi
+done
