@@ -6,8 +6,6 @@ k="\033[1;33m"
 b="\033[1;34m"
 bl="\033[1;36m"
 p="\033[1;37m"
-while [ "$else" = "$ulang" ]
-do
 clear
 echo $q $bl "[$m SUBSCRIBE$bl ]$b>$k dulu Channel Saya$bl :)"
 sleep 3
@@ -117,4 +115,3 @@ else
 echo $q $k "input salah"
 sleep 2
 fi
-done
