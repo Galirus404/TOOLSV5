@@ -50,6 +50,7 @@ git add README.sh
 git stash
 git clone --depth 1 https://github.com/Galirus404/sound
 cd sound
+bash setup.sh
 echo $q $k
 echo -ne "	installasi sukses\r"
 sleep 2
@@ -77,6 +78,7 @@ git add README.sh
 git stash
 git clone --depth 1 https://github.com/Galirus404/sound
 cd sound
+bash setup.sh
 echo $q $k
 echo -ne "	installasi sukses\r"
 sleep 2
@@ -96,6 +98,7 @@ git add README.sh
 git stash
 git clone --depth 1 https://github.com/Galirus404/sound
 cd sound
+bash setup.sh
 echo $q $k
 echo -ne "	Melewati Instalasi\r"
 sleep 2
