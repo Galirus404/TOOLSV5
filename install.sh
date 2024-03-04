@@ -46,9 +46,9 @@ clear
 echo -ne "	Membuka TOOLSV5"
 sleep 2
 cd $HOME/TOOLSV5
-chmod 777 galirus.sh
-gpg --output README.sh --decrypt galirus.sh
+mkdir G404
+mv $HOME/TOOLSV5/README.sh $HOME/G404/
+cd $HOME/G404/
 chmod 777 README.sh
-rm -rf galirus.sh
 bash README.sh
 
