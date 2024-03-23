@@ -1,1 +1,1 @@
-mpv --volume=0.5 $HOME/TOOLSV5/music/  &>/dev/null &
+mpv --volume=20 $HOME/TOOLSV5/music/  &>/dev/null &
