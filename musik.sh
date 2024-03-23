@@ -1,1 +1,1 @@
-mpv $HOME/TOOLSV5/music/ repeat vol 0.1 &>/dev/null &
+mpv --volume=0.5 $HOME/TOOLSV5/music/  &>/dev/null &
